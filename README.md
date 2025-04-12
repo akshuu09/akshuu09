@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shinde Akshta</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A Passionate Java Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
+<img align="right" alt="Coding" width="300" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshuu09&label=Profile%20views&color=0e75b6&style=flat" alt="akshuu09" /> </p>
 
 - 🔭 I’m currently working on **AI Voice Assistance**
@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshuu09&show_icons=true&locale=en&layout=compact" alt="akshuu09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshuu09&" alt="akshuu09" /></p>
