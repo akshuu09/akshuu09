@@ -4,15 +4,14 @@
 <img align="right" alt="Coding" width="300" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshuu09&label=Profile%20views&color=0e75b6&style=flat" alt="akshuu09" /> </p>
 
-- 🔭 I’m currently working on **AI Voice Assistance**
+- 🔭 I’m currently working on **Full Stack Java Project**
 
-- 🌱 I’m currently learning **Ad Java,DSA**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshuu09](https://github.com/akshuu09)
 
 - 📫 How to reach me **shindeakshta46@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/akshta-shinde](www.linkedin.com/in/akshta-shinde)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
